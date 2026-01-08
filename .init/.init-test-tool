@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-calendar-app-196538-196547/calendar_backend"
+}

@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && python -m src.api.generate_openapi",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-calendar-app-196538-196547/calendar_backend"
+}
